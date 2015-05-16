@@ -9,6 +9,7 @@ using SeenIt2.Controllers;
 
 namespace SeenIt2.Tests.Controllers
 {
+    // wot
     [TestClass]
     public class HomeControllerTest
     {
