@@ -287,4 +287,5 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
->>>>>>> Initial commit to add default .gitIgnore and .gitAttribute files.
+SeenIt2/App_Data/aspnet-SeenIt2-20150516095434.mdf
+SeenIt2/App_Data/aspnet-SeenIt2-20150516095434_log.ldf
